@@ -17,7 +17,7 @@ o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Par
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação 
 e na disseminação do conhecimento.
 
-[https://drive.google.com/file/d/181UzzNuvzXgb1hcDb8VrsSNPBGkA_yFp/view?usp=sharing]()
+[https://drive.google.com/file/d/1aNapVSRjS-VibpEzSccHXMJWQcfEwfkI/view?usp=sharing]()
 
 ## 💭 Reflexão
 A criação de um e-book com IA representa uma transformação no processo de escrita, tornando-o mais acessível e eficiente. 
